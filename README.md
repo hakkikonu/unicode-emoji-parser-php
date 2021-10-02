@@ -126,4 +126,4 @@ https://www.unicode.org/license.html
 
 ## License
 
-MIT © Joel Hakkı Konu 2021
+MIT © Hakkı Konu 2021
