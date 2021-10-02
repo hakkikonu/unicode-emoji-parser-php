@@ -105,6 +105,7 @@ If you're using Docker you can run demo project with it. Stack is PHP8 and Apach
 ```
 docker compose up
 ```
+Then visit http://localhost:8000
 
 ### About Emoji
 
