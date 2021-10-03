@@ -1,3 +1,6 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/381165/135736604-599a15bb-50db-430a-bf1b-75dcce0d7920.png" /></p>
+
+
 # Unicode Emoji v14 Parser with Pure PHP
 
 Currently 4440+ emojis
